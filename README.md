@@ -1,4 +1,4 @@
-# 📊 Bike Sales Dashboard (Excel End-to-End Project)
+# 🚲 Bike Sales Dashboard (Excel End-to-End Project)
 
 ![Image Alt](![Uploading image.png…]()
 )
