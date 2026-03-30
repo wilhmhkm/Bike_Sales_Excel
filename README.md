@@ -1,5 +1,7 @@
 # 📊 Bike Sales Dashboard (Excel End-to-End Project)
 
+![Image Alt](image_url)
+
 ## 📌 Executive Summary
 This project demonstrates a complete end-to-end data analytics workflow using Microsoft Excel — from raw data preparation to an interactive dashboard.
 
