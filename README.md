@@ -2,6 +2,8 @@
 
 ![Image Alt](https://github.com/wilhmhkm/Bike_Sales/blob/278f07183cdeda1d3cb39222d45bbb7f5584e56d/Project%20Dashboard.jpg)
 
+[View Interactive Dashboard Here]([https://www.example.com](https://1drv.ms/x/c/24dfaccbb723da12/IQBesFUOwa0lSLRwLjbKqcqlAQnHTQJVDpycDQTRrTOYH5w?e=wjBYX5))
+
 ## 📌 Executive Summary
 
 In this project, I demonstrate a complete end-to-end data analytics workflow using Microsoft Excel, starting from raw data preparation all the way to building an interactive dashboard.  
